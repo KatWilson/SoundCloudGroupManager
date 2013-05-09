@@ -18,7 +18,7 @@ Also there is an MVC, Razor, c'#, Newton Soft Json.net project that consumes the
 /// RELEASE INFO
 ////////////////////////////////
 
-I will release update every two weeks, sundays untill the prject is finished.
+I will release update every two weeks, sundays untill the project is finished.
 
 I will try to release working modules so you can comsume this project from the start.
 
