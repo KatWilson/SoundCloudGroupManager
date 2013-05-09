@@ -11,14 +11,14 @@ Also there is an MVC, Razor, c'#, Newton Soft Json.net project that consumes the
 
 // This is my personal project that i am doing to help me document part of what i am doing at the moment with work.
 
-// I want to put an personal touch to my skills to hopefully pull out more from what i have learned.
+// I want to put an personal touch to my new skills to hopefully pull out more from what i have learned.
 
 
 ////////////////////////////////
 /// RELEASE INFO
 ////////////////////////////////
 
-I will release update every twoo weeks, sundays untill the prject is finished.
+I will release update every two weeks, sundays untill the prject is finished.
 
 I will try to release working modules so you can comsume this project from the start.
 
