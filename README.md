@@ -5,9 +5,9 @@ Sound Cloud Group Manager.
 
 This project helps a user to rapidly consume Sound Clouds API services in c# with an out the box free SCGM.dll.
 
-Get the code base and learn how to put together your own WCF Restful & Contract (domain models) services. 
+Also avaiable is the source code offering a step by step guide to learning WCF Rest & Contract (domain models) services development and deployment. 
 
-Also learn how to quickly consume those services and other Rest services in MVC Razor c'# Newton Soft Json.net
+With an MVC Razor c'# Newton Soft Json.net, project that consumes the Rest services and tips on quiclkly consuming other Rest Services.
 
 // This is my personal project that i am doing to help me document part of what i am doing at the moment with work.
 
