@@ -10,6 +10,7 @@ Get the code base and learn how to put together your own WCF Restful & Contract 
 Also learn how to quickly consume those services and other Rest services in MVC Razor c'# Newton Soft Json.net
 
 // This is my personal project that i am doing to help me document part of what i am doing at the moment with work.
+
 // I want to put an personal touch to my skills to hopefully pull out more from what i have learned.
 
 
