@@ -14,3 +14,10 @@ Also learn how to quickly consume those services and other Rest services in MVC 
 // I want to put an personal touch to my skills to hopefully pull out more from what i have learned.
 
 
+////////////////////////////////
+/// RELEASE INFO
+////////////////////////////////
+I will release update every twoo weeks, sundays untill the prject is finished.
+
+I will try to release working modules so you can comsume this project from the start.
+
