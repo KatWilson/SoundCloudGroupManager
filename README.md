@@ -3,7 +3,7 @@ SoundCloudGroupManager
 
 Sound Cloud Group Manager. 
 
-This project helps a user to rapidly consume Sound Clouds API services in c# with am out the box free SCGM.dll.
+This project helps a user to rapidly consume Sound Clouds API services in c# with an out the box free SCGM.dll.
 
 Get the code base and learn how to put together your own WCF Restful & Contract (domain models) services. 
 
