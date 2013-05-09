@@ -1,4 +1,15 @@
 SoundCloudGroupManager
 ======================
 
-Sound Cloud Group Manager.  This project aims to help the user to rapidly consume Sound Clouds API services in c# while also supplying a basic code base from which to learn how to put together WCF Restful services and how to consume those services and other Rest services in MVC Razor c'#
+Sound Cloud Group Manager. 
+
+This project helps a user to rapidly consume Sound Clouds API services in c# with our out the box free SCGM.dll.
+
+Get the code base and learn how to put together your own WCF Restful & Contract (domain models) services. 
+
+Also learn how to quickly consume those services and other Rest services in MVC Razor c'# Newton Soft Json.net
+
+// This is my personal project that i am doing to help me document part of what i am doing at the moment with work.
+// I want to put an personal touch to my skills to hopefully pull out more from what i have learned.
+
+
