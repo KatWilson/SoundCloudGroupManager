@@ -17,6 +17,7 @@ Also learn how to quickly consume those services and other Rest services in MVC 
 ////////////////////////////////
 /// RELEASE INFO
 ////////////////////////////////
+
 I will release update every twoo weeks, sundays untill the prject is finished.
 
 I will try to release working modules so you can comsume this project from the start.
